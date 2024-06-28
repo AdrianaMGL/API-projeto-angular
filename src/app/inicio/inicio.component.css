@@ -26,7 +26,8 @@ h2{
   }
   
   mat-grid-list{
-    margin: 10px 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 
   mat-grid-tile{
